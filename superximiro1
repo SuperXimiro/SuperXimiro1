@@ -1,0 +1,92 @@
+[
+  {
+    "id": 001,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.643788, 
+    "lng": 120.448737
+  },
+  {
+    "id": 002,
+    "name": "Ma Cho Temple",
+    "imageUrl": "http://machotemple.org/wp-content//gallery//exterior/frontview.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.621401, 
+    "lng": 120.318025
+  },
+  {
+    "id": 003,
+    "name":"Bahay na Bato",
+    "imageUrl": "https://kzriman.files.wordpress.com/2015/01/san-juan-kz-riman-6.jpg",
+    "price": 20,
+    "priceCurrency": "PHP",
+    "lat": 16.847419, 
+    "lng": 120.350794
+  },
+  {
+    "id": 004,
+    "name": "Pindangan Ruins",
+    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.588356, 
+    "lng": 120.315296
+  },
+  {
+    "id": 005,
+    "name": "Tuddingan Falls",
+    "imageUrl": "https://nnnhsiloveit.files.wordpress.com/2012/08/7499875930_6a07cec30f_o.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 48.888839,
+    "lng": 2.339208
+  },
+   {
+    "id": 006,
+    "name": "Okkalong Falls",
+    "imageUrl": "https://img.scoop.it/K1eDxLhwe0lbOy2Pp5z2Rjl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 48.888839,
+    "lng": 2.339208
+  },
+   {
+    "id": 007,
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2014/08/LunaWatchtower02.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 48.888839,
+    "lng": 2.339208
+  },
+   {
+    "id": 008,
+    "name": "Botanical Garden",
+    "imageUrl": "https://www.travelbook.ph/blog/cms/wp-content/uploads/old-site/gallery/12_la_union_san_fernando_botanical_gardens_betty_tianco.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 48.888839,
+    "lng": 2.339208
+  },
+  {
+    "id": 009,
+    "name": "San Juan Beach",
+    "imageUrl": "https://chasingplaces.com/wp-content/uploads/2014/04/Slider-San-Juan-Beach-Luzon-Philippines.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 48.888839,
+    "lng": 2.339208
+  },
+  {
+    "id": 010,
+    "name": "Pugad Adventure",
+    "imageUrl": "http://media.tumblr.com/fa0f28e753e0048bfd610094790a1956/tumblr_inline_mkfk6tJuZm1qz4rgp.jpg",
+    "price": 350,
+    "priceCurrency": "PHP",
+    "lat": 48.827855,
+    "lng": 2.350774
+  }
+]
